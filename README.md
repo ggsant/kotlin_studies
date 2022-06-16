@@ -16,7 +16,7 @@ Introduction to Kotlin
 Environment setup for Command Line
 Environment setup with Intellij IDEA
 # Basics
-[x] Data Types
+- [x] Data Types
 [x] Variables
 [x] Operators
 [ ] Standard Input/Output
