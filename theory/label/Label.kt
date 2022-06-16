@@ -11,10 +11,10 @@ fun main() {
     labelContinue()
 
     //Using return@inputNameOfLabel, we can return value which code will be returned
-    test("Taufik") test@ {
+    test("Gabriela") test@ {
         when (it) {
             "" -> return@test
-            else -> println("Eko")
+            else -> println("Santos")
         }
     }
 }
