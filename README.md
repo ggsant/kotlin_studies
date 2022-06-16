@@ -12,85 +12,85 @@ Para começar com Kotlin, a primeira coisa que você precisa é de um lugar para
 Você também pode praticar o uso do Kotlin em um IDE como o IntelliJ IDEA. 
 
 # Overview
-Introduction to Kotlin
-Environment setup for Command Line
-Environment setup with Intellij IDEA
+- [x] Introduction to Kotlin
+- [x] Environment setup for Command Line
+- [x] Environment setup with Intellij IDEA
 # Basics
-[x] Data Types
-[x] Variables
-[x] Operators
-[ ] Standard Input/Output
-[x] Type Conversion
-[ ] Expression, Statement and Block
+- [x] Data Types
+- [x] Variables
+- [x] Operators
+- [ ] Standard Input/Output
+- [x] Type Conversion
+- [ ] Expression, Statement and Block
 
 # Control Flow
-[x] if-else expression
-[x] while loop
-[x] do-while loop
-[x] for loop
-[x] when expression
-[ ] Unlabeled break
-[ ] labeled break
-[ ] unlabeled continue
-[ ] labeled continue
+- [x] if-else expression
+- [x] while loop
+- [x] do-while loop
+- [x] for loop
+- [x] when expression
+- [ ] Unlabeled break
+- [ ] labeled break
+- [ ] unlabeled continue
+- [ ] labeled continue
 # Array & String
-[x] Array
-[x] String
+- [x] Array
+- [x] String
 
 # Functions
-[x] functions
-[x] Default and Named argument
-[x] Recursion
-[ ] Tail Recursion
+- [x] functions
+- [x] Default and Named argument
+- [x] Recursion
+- [ ] Tail Recursion
 
 # Lambdas Expressions and Anonymous Functions
-[ ] Inline functions
-[ ] infix function notation
-[ ] Higher-Order Functions
+- [ ] Inline functions
+- [ ] infix function notation
+- [ ] Higher-Order Functions
 # Collections
-[ ] Collections
-[ ] list : Arraylist
-[ ] list : listOf()
-[ ] Set : setOf()
-[ ] mutableSetOf()
-[ ] hashSetOf()
-[ ] Map : mapOf()
-[ ] Hashmap
+- [ ] Collections
+- [ ] list : Arraylist
+- [ ] list : listOf()
+- [ ] Set : setOf()
+- [ ] mutableSetOf()
+- [ ] hashSetOf()
+- [ ] Map : mapOf()
+- [ ] Hashmap
 # OOPs Concept
-[ ] Class and Objects
-[ ] Nested class and Inner class
-[ ] Setters and Getters
-[ ] | Class Properties and Custom Accessors
-[ ] Constructor
-[ ] Visibility Modifiers
-[ ] Inheritance
-[ ] Interfaces
-[ ] Data Classes
-[ ] Sealed Classes
-[ ] Abstract class
-[ ] Enum classes in Kotlin
-[ ] extension function
-[ ] generics
+- [ ] Class and Objects
+- [ ] Nested class and Inner class
+- [ ] Setters and Getters
+- [ ] | Class Properties and Custom Accessors
+- [ ] Constructor
+- [ ] Visibility Modifiers
+- [ ] Inheritance
+- [ ] Interfaces
+- [ ] Data Classes
+- [ ] Sealed Classes
+- [ ] Abstract class
+- [ ] Enum classes in Kotlin
+- [ ] extension function
+- [ ] generics
 # Exception Handling
-[ ] Exception Handling | try, catch, throw and finally
-[ ] Nested try block and multiple catch block
+- [ ] Exception Handling | try, catch, throw and finally
+- [ ] Nested try block and multiple catch block
 # Null Safety
-[ ] Null Safety
-[ ] Type Checking and Smart Casting
+- [ ] Null Safety
+- [ ] Type Checking and Smart Casting
  ] Explicit type casting
 # Regex & Ranges
-[ ] Regular Expression
-[ ] Ranges
-[ ] Java Interoperability
-[ ] Java Interoperability – Calling Kotlin from Java
-[ ] Java Interoperability – Calling Java from Kotlin
+- [ ] Regular Expression
+- [ ] Ranges
+- [ ] Java Interoperability
+- [ ] Java Interoperability – Calling Kotlin from Java
+- [ ] Java Interoperability – Calling Java from Kotlin
 # Miscellaneous
-[ ] annotations
-[ ] Reflection
-[ ] Operator Overloading
-[ ] Destructuring Declarations in Kotlin
-[ ] Equality evaluation in Kotlin
-[ ] Comparator in Kotlin
-[ ] Triple in Kotlin
-[ ] Pair in Kotlin
-[ ] Kotlin | apply vs with
+- [ ] annotations
+- [ ] Reflection
+- [ ] Operator Overloading
+- [ ] Destructuring Declarations in Kotlin
+- [ ] Equality evaluation in Kotlin
+- [ ] Comparator in Kotlin
+- [ ] Triple in Kotlin
+- [ ] Pair in Kotlin
+- [ ] Kotlin | apply vs with
