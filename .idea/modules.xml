@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/theory/datatype/datatype.iml" filepath="$PROJECT_DIR$/theory/datatype/datatype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/exercises.iml" filepath="$PROJECT_DIR$/exercises/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin_studies.iml" filepath="$PROJECT_DIR$/kotlin_studies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theory/theory.iml" filepath="$PROJECT_DIR$/theory/theory.iml" />
+    </modules>
+  </component>
+</project>

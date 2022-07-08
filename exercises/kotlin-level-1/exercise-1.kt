@@ -7,6 +7,6 @@
  */
 
 fun main() {
-    val name : String = "Gabriela"
+    val name: String = "Gabriela"
     println("Olá, $name")
 }
