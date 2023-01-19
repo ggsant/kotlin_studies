@@ -1,7 +1,18 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+fun main() {
+    // ParseIntCharProblem
+    println("ParseIntCharProblem")
+    val parseIntCharProblem = ParseIntCharProblem()
+    println(parseIntCharProblem.getAge("1 year old"))
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+    // CaptalizeStringProblem
+    println("CaptalizeStringProblem")
+    val captalizeStringPProblem = CaptalizeStringProblem()
+    println(captalizeStringPProblem.capitalize("gabriela"))
+    println(captalizeStringPProblem.capitalizeOtherSolution("gabriela"))
+
+    // SmallEnoughProblem
+    println("SmallEnoughProblem")
+    val smallEnoughProblem = SmallEnoughProblem()
+    println(smallEnoughProblem.smallEnough(intArrayOf(1,2,3,4,5,6), 6))
 }
+
